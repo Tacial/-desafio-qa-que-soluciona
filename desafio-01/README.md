@@ -79,3 +79,4 @@ Você pode então realizar alguns testes em seu script. Execute seu script usand
 ## Dicas Extras:
 - A última linha deve ter 0 espaços à sua frente.
 - A escadaria está alinhada à direita, composta por símbolos # e espaços, e tem uma altura e largura de n.
+- 
