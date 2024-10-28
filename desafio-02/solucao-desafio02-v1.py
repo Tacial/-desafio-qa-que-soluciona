@@ -7,7 +7,7 @@ def countingValleys(path):
     in_valley = False
 
     for step in path:       
-        #Se subir um nível, adiciona 1 ao level    
+        #Se subir um nível , adiciona 1 ao level    
         if (step == "U"):
             level = level + 1
         #Se descer um nível, diminui 1 ao level
