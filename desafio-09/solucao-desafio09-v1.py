@@ -17,7 +17,7 @@ def similarity(s):
                 # Incrementa o comprimento do prefixo comum
                 common_length += 1
             else:
-                # Se encontrar um caractere diferente, interrompe a comparação
+                # Se encontrar  um caractere diferente, interrompe a comparação
                 break
         # Adiciona o comprimento do prefixo comum ao total de similaridades
         total_similarity += common_length
